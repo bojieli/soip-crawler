@@ -1,0 +1,11 @@
+{
+  "name": "soip-crawler",
+  "description": "Crawler for IP Domain Lookup Tool",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mongodb": "1.x",
+    "node-whois": "0.2.x",
+    "express": "3.x"
+  }
+}
